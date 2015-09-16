@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:43.273691
+#+DATE: 2015-08-30 20:01:44.467579
 #+TITLE: 彌勒菩薩所問本願經
 #+PROPERTY: CBETA_ID T12n0349
 #+PROPERTY: ID KR6f0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 349
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0041_T_000-0186c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0041_T_001-0186c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.349[No.310(42)]¶
-
- 彌勒菩薩所問本願經¶
+No. 349 [No. 310(42)]¶
+彌勒菩薩所問本願經¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
