@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 彌勒菩薩所問本願經
+#+DATE: 2015-08-30 20:01:43.471208
+#+PROPERTY: JUAN 0
